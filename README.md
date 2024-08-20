@@ -30,7 +30,7 @@ Caso sua chave SSH esteja em formato OpenSSH, você precisará convertê-la para
 3. No campo Port, insira 22.
 4. Em Connection type, selecione SSH.
 
-![visão do PuTTY Session](assets/PuTTY_session.png)
+![visão do PuTTY Session](assets/PuTTY_session1.png)
 
 ### Configurar o Túnel SSH
 1. No menu à esquerda, expanda Connection > SSH > Tunnels.
@@ -45,7 +45,7 @@ Caso sua chave SSH esteja em formato OpenSSH, você precisará convertê-la para
 7. Clique em Open para iniciar a conexão SSH.
 8. Digite o nome de usuário da sua VM no prompt de comando que irá surgir (ubuntu para esta ocasião).
 
-![visão do PuTTY Credentials](assets/PuTTY_credentials.png)
+![visão do PuTTY Credentials](assets/PuTTY_credentials1.png)
 
 ## Passo 3: Configurar o FoxyProxy
 1. Abra o navegador e acesse as configurações do FoxyProxy.
