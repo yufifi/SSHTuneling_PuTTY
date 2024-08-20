@@ -22,7 +22,7 @@ Caso sua chave SSH esteja em formato OpenSSH, você precisará convertê-la para
 2. Clique em Load e selecione sua chave privada.
 3. Clique em Save private key para salvar a chave no formato .ppk.
 
-Captura de Tela: [Inserir captura de tela da interface do PuTTYgen]
+![visão inicial do PuTTYgen](assets/PuTTYgen.png)
 
 ## Passo 2: Configurar o PuTTY
 1. Abra o PuTTY.
